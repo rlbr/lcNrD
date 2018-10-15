@@ -54,6 +54,13 @@ As it stands, this program works best with text listed using the '\n' delimiter.
   -kae KEYWORD_ADD_END, --keyword_add_end KEYWORD_ADD_END
                         add a -kae to add some text to the end of every line
                         (default: None)
+  -dli INPUT_DELIMITER, --input_delimiter INPUT_DELIMITER
+                        add a -dli to change input delimiter (default: None)
+  -dlo OUTPUT_DELIMITER, --output_delimiter OUTPUT_DELIMITER
+                        add a -dlo to change input delimiter (default: None)
+  -nts, --newline_to_space
+                        add -nts to change newline to space (option will be
+                        ignored if delimiter is \n) (default: False)
 ```
 
 ## Roadmap:

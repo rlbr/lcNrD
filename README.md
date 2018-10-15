@@ -57,5 +57,5 @@ As it stands, this program works best with text listed using the '\n' delimiter.
 ```
 
 ## Roadmap:
-* Add input delimiter
-* Add output delimiter
+* Add input delimiter (done)
+* Add output delimiter (done)
